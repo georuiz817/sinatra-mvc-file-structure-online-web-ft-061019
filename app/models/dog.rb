@@ -5,15 +5,7 @@ class Dog
     @name = name 
     @breed = breed 
     @age = age 
-    @@all = [] 
-    @@all << self 
-  end
-  
-def all 
-  @@all 
-end
-  
-  
+ end
   
   
 end
